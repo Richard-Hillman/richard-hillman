@@ -27,18 +27,18 @@
 
 <div align="center">    
     <h2>Please Reach out to me with questions, ideas or just to chat!</h2> 
-    <ul list-style: none>
-        <li>
+    <div>
+        <p>
             <strong>
             <a href="https://calendly.com/richard-and-rhino/15min"> 15 minute Zoom,</a> Schedule on my Calendly!</strong> 
-        </li>
-        <li>
+        <p>
+        <p>
             <strong><a href="https://www.linkedin.com/in/richard-hillman/">LinkedIn</a></strong> 
-        </li>
-        <li>
+        </p>
+        <p>
             <strong><a href="https://twitter.com/RichardAndRhino">Twitter</a></strong> 
-        </li>
-    </ul>
+        </p>
+    </div>
 
 <div align="center">
     <h2></h2>
