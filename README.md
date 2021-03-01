@@ -1,3 +1,20 @@
+
+<head>
+    <style>
+      ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+      li {
+        background-image: url("/assets/rh.png");
+        background-repeat: no-repeat;
+        background-position: 1px;
+        padding-left: 20px;
+      }
+    </style>
+</head>
+
 <div align="center">
     <img src="./assets/beach.gif">
 </div>
@@ -27,7 +44,7 @@
 
 <div align="center">    
     <h2>Please Reach out to me with questions, ideas or just to chat!</h2> 
-    <ul list-style-image: url("./assets/rh.png")>
+    <ul>
         <li>
             <strong>
             <a href="https://calendly.com/richard-and-rhino/15min"> 15 minute Zoom,</a> Schedule on my Calendly!</strong> 
