@@ -1,5 +1,3 @@
-
-
 <div align="center">
     <img src="./assets/beach.gif">
 </div>
@@ -29,36 +27,23 @@
 
 <div align="center">    
     <h2>Please Reach out to me with questions, ideas or just to chat!</h2> 
-    <ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-      }>
-        <li {
-        background-image: url("/assets/rh.png");
-        background-repeat: no-repeat;
-        background-position: 1px;
-        padding-left: 20px;
-      }>
+    <ul >
+        <li>
             <strong>
             <a href="https://calendly.com/richard-and-rhino/15min"> 15 minute Zoom,</a> Schedule on my Calendly!</strong> 
         </li>
-        <li {
-        background-image: url("/assets/rh.png");
-        background-repeat: no-repeat;
-        background-position: 1px;
-        padding-left: 20px;
-      }>
+        <li>
             <strong><a href="https://www.linkedin.com/in/richard-hillman/">LinkedIn</a></strong> 
         </li>
-        <li {
-        background-image: url("/assets/rh.png");
-        background-repeat: no-repeat;
-        background-position: 1px;
-        padding-left: 20px;
-      }>
+        <li>
             <strong><a href="https://twitter.com/RichardAndRhino">Twitter</a></strong> 
         </li>
     </ul>
+
+<div align="center">
+    <img src="./assets/stack.svg">
+</div>
+
+
 </div>
 
