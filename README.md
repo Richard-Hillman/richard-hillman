@@ -27,8 +27,8 @@
     </p>
 </div>
 
-<div>    
-    <h2 align="center">Please Reach out to me with questions, ideas or just to chat!</h2> 
+<div align="center">    
+    <h2>Please Reach out to me with questions, ideas or just to chat!</h2> 
     <p>
         <strong>
         <a href="https://calendly.com/richard-and-rhino/15min"> 15 minute Zoom,</a> Schedule on my Calendly!</strong> 
