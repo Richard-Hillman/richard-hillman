@@ -5,11 +5,5 @@
 -->
 
 <div align="center">
-    <video>
-        <source src="./assets/beach.mp4" type=video/mp4>
-    </video>
-</div>
-
-<div> 
-    <img src="./assets/beach.gif">
+    <img height="80vh" width="auto" src="./assets/beach.gif">
 </div>
