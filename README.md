@@ -5,5 +5,5 @@
 -->
 
 <div align="center">
-    <img height="80vh" width="auto" src="./assets/beach.gif">
+    <img height="90%" width="auto" src="./assets/beach.gif">
 </div>
