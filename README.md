@@ -9,3 +9,7 @@
         <source src="./assets/beach.mp4" type=video/mp4>
     </video>
 </div>
+
+<div> 
+    <img src="./assets/beach.gif">
+</div>
