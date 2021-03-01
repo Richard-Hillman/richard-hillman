@@ -41,7 +41,8 @@
     </ul>
 
 <div align="center">
-    <img src="./assets/stack.svg">
+    <h2></h2>
+    <img src="./assets/stack.jpg">
 </div>
 
 
