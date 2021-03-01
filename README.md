@@ -42,7 +42,7 @@
 
 <div align="center">
     <h2></h2>
-    <img src="./assets/stack.jpg">
+    <img src="./assets/stack.gif">
 </div>
 
 
