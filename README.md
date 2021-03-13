@@ -14,15 +14,16 @@
 
 <div align="center">
     <h2>Noteworthy Repositories</h2>
+     <p>
+        Check out FIIN: Film Indie a site for independent film makers to share crowdfund and connect with other film professionals! 
+    </p>
     <p>
         Longboard-Collective: A long-boarders social networking app in development using a newly learned MongoDB Atlas database, Express, React, and Redux. (Currently Under Construction)
     </p>
     <p>
         Hexa-P Front and BackEnd: The Oregon Environmental Data Initiative is an app that is scraping two apis for both current and relevant news articles relating to the environment, and grabbing historical weather data to be mapped over multiple cities across Oregon.
     </p>
-    <p>
-        Octogotchi: An entirely front-end web based app created over a week long-sprint that emulates the 1980's famous Tomogotchi. Only this time centering around the beautiful Octopus. 
-    </p>
+   
 </div>
 
 <div align="center">    
